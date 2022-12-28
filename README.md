@@ -7,10 +7,10 @@ The objective of the dataset is to diagnostically predict whether or not a patie
 Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima 
 Indian heritage.
 
-#Objective
+# Objective
 We will try to build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not?
 
-#Details about the dataset:
+# Details about the dataset:
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had,
 their BMI, insulin level, age, and so on.
 
@@ -25,6 +25,6 @@ Age: Age (years)
 Outcome: Class variable (0 or 1)
 Number of Observation Units: 768
 
-#Variable Number: 9
+# Variable Number: 9
 
-$#esult; The model created as a result of XGBoost hyperparameter optimization became the model with the lowest Cross Validation Score value. (0.90)
+# Result; The model created as a result of XGBoost hyperparameter optimization became the model with the lowest Cross Validation Score value. (0.90)
