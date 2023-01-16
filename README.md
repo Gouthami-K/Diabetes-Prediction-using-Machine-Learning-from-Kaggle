@@ -36,4 +36,4 @@ Number of Observation Units: 768
 9
 
 # Result:
-The model created as a result of XGBoost hyperparameter optimization became the model with the lowest Cross Validation Score value. (0.90)
+The model created as a result of XGBoost hyperparameter optimization became the model with the lowest Cross Validation Score value. (0.74)
